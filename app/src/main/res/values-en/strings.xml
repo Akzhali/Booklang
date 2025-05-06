@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BookLang</string>
+    
+    <!-- Common strings -->
+    <string name="pro_badge">Pro</string>
+    <string name="home">Home</string>
+    <string name="library">Library</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Sign out</string>
+    <string name="back">Back</string>
+    
+    <!-- Home page -->
+    <string name="upload_file">Upload file</string>
+    <string name="upload_file_desc">Upload books and read to learn</string>
+    <string name="upload">Upload</string>
+    <string name="upload_video">Upload video</string>
+    <string name="upload_video_desc">Learn through videos</string>
+    <string name="upload_image">Upload images</string>
+    <string name="upload_image_desc">Learn through images</string>
+    <string name="add_image">Add images</string>
+    
+    <!-- Library -->
+    <string name="books_tab">Books</string>
+    <string name="time_tab">By time</string>
+    <string name="empty_library">Library is empty</string>
+    <string name="add_book">Add book</string>
+    
+    <!-- Profile -->
+    <string name="profile_title">Profile</string>
+    <string name="language">Language</string>
+    <string name="language_kz">Қазақша 🇰🇿</string>
+    <string name="language_ru">Русский 🇷🇺</string>
+    <string name="language_en">English 🇺🇸</string>
+    <string name="about_us">About us</string>
+    <string name="notifications">Notifications</string>
+    <string name="password_placeholder">**************</string>
+    
+    <!-- Common messages -->
+    <string name="feature_in_development">This feature is under development</string>
+    <string name="file_name_required">Please enter a file name</string>
+    <string name="unsupported_file_format">Unsupported file format</string>
+    <string name="file_upload_success">File uploaded successfully</string>
+    <string name="file_upload_error">Error uploading file: %1$s</string>
+    <string name="book_selected">Selected book: %1$s</string>
+    <string name="logout_confirm">Are you sure you want to log out?</string>
+    <string name="logout_success">You have been logged out</string>
+</resources> 

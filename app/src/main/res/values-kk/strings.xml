@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BookLang</string>
+    
+    <!-- Общие строки -->
+    <string name="pro_badge">Pro</string>
+    <string name="home">Басты</string>
+    <string name="library">Кітапхана</string>
+    <string name="profile">Профиль</string>
+    <string name="logout">Шығу</string>
+    <string name="back">Артқа</string>
+    
+    <!-- Главная страница -->
+    <string name="upload_file">Файлды жүктеу</string>
+    <string name="upload_file_desc">Кітап жүктеп, оқып үйреніңіз</string>
+    <string name="upload">Жүктеу</string>
+    <string name="upload_video">Видео жүктеу</string>
+    <string name="upload_video_desc">Видео арқылы тілді үйреніңіз</string>
+    <string name="upload_image">Сүреттерді жүктеу</string>
+    <string name="upload_image_desc">Сүреттер арқылы үйреніңіз</string>
+    <string name="add_image">Сүреттер қосу</string>
+    
+    <!-- Библиотека -->
+    <string name="books_tab">Китаптар</string>
+    <string name="time_tab">Уақыты</string>
+    <string name="empty_library">Кітапхана бос</string>
+    <string name="add_book">Кітап қосыңыз</string>
+    
+    <!-- Профиль -->
+    <string name="profile_title">Профиль</string>
+    <string name="language">Тіл</string>
+    <string name="language_kz">Қазақша 🇰🇿</string>
+    <string name="language_ru">Русский 🇷🇺</string>
+    <string name="language_en">English 🇺🇸</string>
+    <string name="about_us">Біз туралы</string>
+    <string name="notifications">Хабарлау</string>
+    <string name="password_placeholder">**************</string>
+    
+    <!-- Общие сообщения -->
+    <string name="feature_in_development">Бұл функция әзірленуде</string>
+    <string name="file_name_required">Файл атын енгізіңіз</string>
+    <string name="unsupported_file_format">Қолдау көрсетілмейтін файл форматы</string>
+    <string name="file_upload_success">Файл сәтті жүктелді</string>
+    <string name="file_upload_error">Файлды жүктеу кезінде қате: %1$s</string>
+    <string name="book_selected">Таңдалған кітап: %1$s</string>
+    <string name="logout_confirm">Сіз шынымен шыққыңыз келе ме?</string>
+    <string name="logout_success">Сіз жүйеден шықтыңыз</string>
+</resources> 

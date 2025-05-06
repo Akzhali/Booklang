@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BookLang</string>
+    
+    <!-- Общие строки -->
+    <string name="pro_badge">Pro</string>
+    <string name="home">Главная</string>
+    <string name="library">Библиотека</string>
+    <string name="profile">Профиль</string>
+    <string name="logout">Выход</string>
+    <string name="back">Назад</string>
+    
+    <!-- Главная страница -->
+    <string name="upload_file">Загрузить файл</string>
+    <string name="upload_file_desc">Загрузите книгу и читайте, чтобы учиться</string>
+    <string name="upload">Загрузить</string>
+    <string name="upload_video">Загрузить видео</string>
+    <string name="upload_video_desc">Учитесь с помощью видео</string>
+    <string name="upload_image">Загрузить изображения</string>
+    <string name="upload_image_desc">Учитесь с помощью изображений</string>
+    <string name="add_image">Добавить изображения</string>
+    
+    <!-- Библиотека -->
+    <string name="books_tab">Книги</string>
+    <string name="time_tab">По времени</string>
+    <string name="empty_library">Библиотека пуста</string>
+    <string name="add_book">Добавить книгу</string>
+    
+    <!-- Профиль -->
+    <string name="profile_title">Профиль</string>
+    <string name="language">Язык</string>
+    <string name="language_kz">Қазақша 🇰🇿</string>
+    <string name="language_ru">Русский 🇷🇺</string>
+    <string name="language_en">English 🇺🇸</string>
+    <string name="about_us">О нас</string>
+    <string name="notifications">Уведомления</string>
+    <string name="password_placeholder">**************</string>
+    
+    <!-- Общие сообщения -->
+    <string name="feature_in_development">Эта функция находится в разработке</string>
+    <string name="file_name_required">Введите имя файла</string>
+    <string name="unsupported_file_format">Неподдерживаемый формат файла</string>
+    <string name="file_upload_success">Файл успешно загружен</string>
+    <string name="file_upload_error">Ошибка при загрузке файла: %1$s</string>
+    <string name="book_selected">Выбрана книга: %1$s</string>
+    <string name="logout_confirm">Вы действительно хотите выйти?</string>
+    <string name="logout_success">Вы вышли из системы</string>
+</resources> 
